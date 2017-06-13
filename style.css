@@ -1,0 +1,4 @@
+body{
+  background-color: black;
+  filter: blur(3px) contrast(200%) grayscale(35%)
+}
